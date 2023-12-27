@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           YiwenAI ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-           （内部测试 v0.5）
+           （内部测试 v0.6）
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
